@@ -1,39 +1,11 @@
-**Alice Jones**
+![Header](iitrpr_logo.jpg)
 
-Hi there! I'm a software developer with a passion for building user-friendly and efficient applications. I'm proficient in Python, Java, and JavaScript, and I'm always eager to learn new technologies.
+🔭 I am currently a fourth year CSE undergraduate at IIT Ropar.
+🌱: I am interested in Machine Learning, Competitive Programming and Web Development.
+💻: I am proficient in C, C++, HTML, CSS, JavaScript, Python, Keras, Tensorflow, etc.
+✨: Looking forward to collaborating on some amazing projects.
+🤝: Let's get in touch.
 
-**Skills**
-
-* Python
-* Java
-* JavaScript
-* HTML & CSS
-* Git
-
-**Projects**
-
-* [To-Do List App](https://github.com/alice-jones/to-do-list-app): A simple and intuitive to-do list application built with Python and a web framework.
-* [E-commerce Website](https://github.com/alice-jones/e-commerce-website): An e-commerce website built with Java and a relational database.
-* [Personal Portfolio Website](https://alicejones.com): My personal portfolio website showcasing my skills and experience.
-
-**Connect with me!**
-
-* LinkedIn: [alice-jones](https://www.linkedin.com/in/alice-jones)
-* Twitter: [@alicejdev](https://twitter.com/alicejdev)
-
-**Badges**
-
-* [![[GitHub Contributions](https://github.com/badges/github-activity.svg?user=alice-jones)](https://github.com/alice-jones)](#)
-* [![[Languages Spoken](https://github.com/badges/languages.svg)](https://github.com/alice-jones)](#)
-
-**(#):** These badges will be dynamically generated based on your contributions and programming languages used.
-
-**Note:** This is a basic example, and you can customize it further by adding elements like:
-
-* A profile picture
-* Animated elements using ASCII art or SVG
-* A fun fact about yourself
-* Links to your blog or articles
-* Statistics about your repositories (stars, forks)
-
-Remember to replace the bracketed information with your own details and links. You can find tools online to generate badges for your profile based on your contributions and programming languages.
+- 📞 +91-\phone
+- 📧 [\emailb](mailto:\emailb)
+- 🌐 [GitHub](https://github.com/Ashish-Gupta-2003) | [LinkedIn](https://www.linkedin.com/in/ashish-gupta-86135329a/) | [Codeforces](https://codeforces.com/profile/_Ashish_Gupta_) | [Codechef](https://www.codechef.com/users/titan_2003)
