@@ -8,7 +8,7 @@
 ✨: Looking forward to collaborating on some amazing projects.<br>
 🤝: Let's get in touch.<br>
 
-- 📞 +91-\phone
+- 📞 +91-7393991859
 - 📧 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:\emailb)
 - 🌐 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Ashish-Gupta-2003)
   [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ashish-gupta-86135329a/)
