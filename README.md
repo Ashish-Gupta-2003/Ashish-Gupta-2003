@@ -12,5 +12,5 @@
 - 📧 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:\emailb)
 - 🌐 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Ashish-Gupta-2003)
   [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ashish-gupta-86135329a/)
-  [![Codeforces](https://skillicons.dev/icons?i=codeforces)](https://codeforces.com/profile/_Ashish_Gupta_)
-  [![CodeChef](https://skillicons.dev/icons?i=codechef)](https://www.codechef.com/users/titan_2003)
+  [![Codeforces](codeforces_logo.png)](https://codeforces.com/profile/_Ashish_Gupta_)
+  [![CodeChef](codechef_logo.png)](https://www.codechef.com/users/titan_2003)
