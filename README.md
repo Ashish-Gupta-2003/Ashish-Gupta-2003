@@ -1,4 +1,6 @@
-<img src="iitrpr_logo.jpg" alt="IIT Ropar Logo" width="50" height="50" align="left"/>
+<div style="background-color: white; width: 50px; height: 50px; display: inline-block;">
+    <img src="iitrpr_logo.jpg" alt="IIT Ropar Logo" width="50" height="50" style="vertical-align: middle;"/>
+</div>
 
 🔭 I am currently a fourth year CSE undergraduate at IIT Ropar.
 🌱: I am interested in Machine Learning, Competitive Programming and Web Development.
