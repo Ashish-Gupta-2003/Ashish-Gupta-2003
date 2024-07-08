@@ -1,4 +1,4 @@
-![Header](iitrpr_logo.jpg)
+<img src="iitrpr_logo.jpg" alt="IIT Ropar Logo" width="50" height="50" align="left"/>
 
 🔭 I am currently a fourth year CSE undergraduate at IIT Ropar.
 🌱: I am interested in Machine Learning, Competitive Programming and Web Development.
