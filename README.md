@@ -17,7 +17,6 @@
   [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/titan_2003)
 <hr>
 <h1>Languages and Tools:</h1>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript" />
-  <img src="https://skillicons.dev/icons?i=vscode,arduino,linux,latex,flask" />
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,numpy,pandas,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,flask,python,tensorflow,keras" />
+  <img src="https://skillicons.dev/icons?i=vscode,arduino,git,linux,latex" />
 </div>
