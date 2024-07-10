@@ -1,6 +1,6 @@
 <div align="center">
 <h1>👋 Hey There !! I'm Ashish Gupta</h1>
-🔭 I am currently a fourth year CSE undergraduate at IIT Ropar.<br>
+🔭 I am currently a pre-final year CSE undergraduate at IIT Ropar.<br>
 🌱 I am interested in Machine Learning, Competitive Programming and Web Development.<br>
 💻 I am proficient in C, C++, HTML, CSS, JavaScript, Python, Keras, Tensorflow, etc.<br>
 ✨ Looking forward to collaborating on some amazing projects.<br>
