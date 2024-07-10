@@ -1,5 +1,6 @@
 <div align="center">
-
+#👋 Hey There !! I'm Parth Jain
+ <hr>
 🔭 I am currently a fourth year CSE undergraduate at IIT Ropar.<br>
 🌱 I am interested in Machine Learning, Competitive Programming and Web Development.<br>
 💻 I am proficient in C, C++, HTML, CSS, JavaScript, Python, Keras, Tensorflow, etc.<br>
