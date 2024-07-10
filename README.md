@@ -17,3 +17,9 @@
   [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/titan_2003)
 
 </div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=vscode,arduino,linux,latex,flask" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,numpy,pandas,matplotlib" />
+</div>
