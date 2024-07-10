@@ -15,10 +15,8 @@
  [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Ashish-Gupta-2003)
   [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ashish-gupta-86135329a/)<br>[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_Ashish_Gupta_)
   [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/titan_2003)
-
-</div>
-
-<div align="center">
+<hr>
+<h1>Languages and Tools:</h1>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript" />
   <img src="https://skillicons.dev/icons?i=vscode,arduino,linux,latex,flask" />
   <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,numpy,pandas,matplotlib" />
